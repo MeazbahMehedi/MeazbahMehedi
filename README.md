@@ -10,17 +10,19 @@
 
 
 
-<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" alt="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70" width="400">
+<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" alt="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70" width="300">
 
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=meazbahmehedi&label=Profile%20views&color=0e75b6&style=flat)
 
 - Welcome to my GitHub profile! I'm currently a student aspiring to become a software engineer. While I may not have extensive coding skills or knowledge at the moment, I'm actively learning and consider myself a quick learner. I'm excited to embark on this journey and develop my coding abilities. Stay tuned for future projects and progress!
+
 - 🌱 I’m currently learning **Python**
-- 💬 Ask me about **Python**
+
+- 💬  I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.
+
 - 📫 How to reach me: meazbahmehedi@gmail.com
-- Welcome to my GitHub profile! I'm currently a student aspiring to become a software engineer. While I may not have extensive coding skills or knowledge at the moment, I'm actively learning and consider myself a quick learner. I'm excited to embark on this journey and develop my coding abilities. Stay tuned for future projects and progress!
 
 
 ### Blogs posts
