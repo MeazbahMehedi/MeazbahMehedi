@@ -34,15 +34,8 @@
 <a href="https://discord.com/invite/pCxqQYZQHf" target="_blank"><img align="left" alt="https://discord.com/invite/pCxqQYZQHf | Discord" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></a>
 <a href="https://www.meazbahmehedi.com" target="_blank"><img align="left" alt="www.meazbahmehedi.com | RSS" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" /></a>
 
-<style>
-  .heading-container {
-    display: flex;
-    align-items: flex-start;
-  }
-  
-  .heading-container h3 {
-    margin-top: 0;
-  }
+
+ 
 </style>
 
 <div class="heading-container">
