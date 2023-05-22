@@ -16,13 +16,12 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=meazbahmehedi&label=Profile%20views&color=0e75b6&style=flat)
 
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/meazbahmehedi?logo=twitter&style=for-the-badge)](https://twitter.com/meazbahmehedi)
-
+- Welcome to my GitHub profile! I'm currently a student aspiring to become a software engineer. While I may not have extensive coding skills or knowledge at the moment, I'm actively learning and consider myself a quick learner. I'm excited to embark on this journey and develop my coding abilities. Stay tuned for future projects and progress!
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: meazbahmehedi@gmail.com
+- Welcome to my GitHub profile! I'm currently a student aspiring to become a software engineer. While I may not have extensive coding skills or knowledge at the moment, I'm actively learning and consider myself a quick learner. I'm excited to embark on this journey and develop my coding abilities. Stay tuned for future projects and progress!
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
