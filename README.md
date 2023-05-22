@@ -27,12 +27,12 @@
 
 
 ## Connect with me:
-[<img align="left" alt="meazbahmehedi | Twitter" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/meazbahmehedi)
-[<img align="left" alt="meazbahmehedi | Facebook" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />](https://fb.com/meazbahmehedi)
-[<img align="left" alt="meazbah.mehedi | Instagram" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://instagram.com/meazbah.mehedi)
-[<img align="left" alt="meazbahmehedi | YouTube" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />](https://www.youtube.com/c/meazbahmehedi)
-[<img align="left" alt="https://discord.com/invite/pCxqQYZQHf | Discord" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />](https://discord.gg/https://discord.com/invite/pCxqQYZQHf)
-[<img align="left" alt="www.meazbahmehedi.com | RSS" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" />](https://www.meazbahmehedi.com)
+<a href="https://twitter.com/meazbahmehedi" target="_blank"><img align="left" alt="meazbahmehedi | Twitter" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+<a href="https://fb.com/meazbahmehedi" target="_blank"><img align="left" alt="meazbahmehedi | Facebook" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://instagram.com/meazbah.mehedi" target="_blank"><img align="left" alt="meazbah.mehedi | Instagram" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+<a href="https://www.youtube.com/c/meazbahmehedi" target="_blank"><img align="left" alt="meazbahmehedi | YouTube" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" /></a>
+<a href="https://discord.com/invite/pCxqQYZQHf" target="_blank"><img align="left" alt="https://discord.com/invite/pCxqQYZQHf | Discord" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></a>
+<a href="https://www.meazbahmehedi.com" target="_blank"><img align="left" alt="www.meazbahmehedi.com | RSS" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" /></a>
 
 ## Languages and Tools:
 
