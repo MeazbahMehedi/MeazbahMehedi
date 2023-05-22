@@ -35,14 +35,14 @@
 <a href="https://www.meazbahmehedi.com" target="_blank"><img align="left" alt="www.meazbahmehedi.com | RSS" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" /></a>
 
 
- 
+ `
 
-
+<p align="left"> 
 <div class="heading-container">
   <h3 align="left">Languages and Tools:</h3>
 </div>
 
-<p align="left"> 
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
