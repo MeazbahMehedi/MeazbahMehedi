@@ -11,7 +11,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=meazbahmehedi&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=meazbahmehedi)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/meazbahmehedi?logo=twitter&style=for-the-badge)](https://twitter.com/meazbahmehedi)
 
