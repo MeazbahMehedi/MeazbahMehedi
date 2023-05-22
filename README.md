@@ -10,7 +10,7 @@
 
 
 
-<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" alt="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70" width="300">
+<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" alt="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70" width="400">
 
 
 
@@ -20,7 +20,8 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬  I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.
+- 💬  I’m the type of person that if you ask me a question and I don’t know the answer,
+ I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.
 
 - 📫 How to reach me: meazbahmehedi@gmail.com
 
