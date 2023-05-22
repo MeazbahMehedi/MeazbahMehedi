@@ -36,7 +36,7 @@
 
 
  
-</style>
+
 
 <div class="heading-container">
   <h3 align="left">Languages and Tools:</h3>
