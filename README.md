@@ -26,10 +26,6 @@
 - 📫 How to reach me: meazbahmehedi@gmail.com
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with me:
 [<img align="left" alt="meazbahmehedi | Twitter" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/meazbahmehedi)
 [<img align="left" alt="meazbahmehedi | Facebook" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />](https://fb.com/meazbahmehedi)
