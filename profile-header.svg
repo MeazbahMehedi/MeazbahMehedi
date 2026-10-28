@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img">
+<title>Meazbah Mehedi — Software engineering student from Bangladesh</title>
+<desc>Midnight blue profile banner with an orbital moon illustration. Python, C and C++.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111d35"/><stop offset="1" stop-color="#090f1c"/></linearGradient>
+ <linearGradient id="moon" x2="1" y2="1"><stop stop-color="#a9f3ec"/><stop offset="0.48" stop-color="#78a8e4"/><stop offset="1" stop-color="#4c4685"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8ba2c4" stroke-opacity="0.055"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="410" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="410" fill="url(#bg)"/>
+ <rect width="1200" height="410" fill="url(#grid)"/>
+ <circle cx="1010" cy="190" r="245" fill="#77b9ed" opacity="0.025"/>
+ <circle cx="1010" cy="190" r="195" fill="#77b9ed" opacity="0.025"/>
+ <path d="M0 0H1200" stroke="#76e1d5" stroke-width="4"/>
+ <circle cx="58" cy="49" r="4" fill="#80e8d9"/>
+<text x="74" y="54" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="600" fill="#93c7d1" letter-spacing="2">SOFTWARE ENGINEERING  /  BANGLADESH</text><text x="54" y="143" font-family="DejaVu Sans,Arial,sans-serif" font-size="66" font-weight="700" fill="#f2f6ff" >Meazbah</text><text x="54" y="218" font-family="DejaVu Sans,Arial,sans-serif" font-size="66" font-weight="700" fill="#f2f6ff" >Mehedi.</text><text x="57" y="263" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#a7b7cf" >Curiosity into code. Ideas into projects.</text>
+ <rect x="56" y="292" width="98" height="32" rx="16" fill="#162e3d" stroke="#315a65"/>
+ <rect x="164" y="292" width="56" height="32" rx="16" fill="#172339" stroke="#30415b"/>
+ <rect x="230" y="292" width="72" height="32" rx="16" fill="#172339" stroke="#30415b"/>
+<text x="76" y="314" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="600" fill="#91efe1" >Python</text><text x="187" y="314" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="600" fill="#c2cde2" >C</text><text x="247" y="314" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="600" fill="#c2cde2" >C++</text>
+ <g transform="translate(955 186)">
+  <circle r="128" fill="none" stroke="#7296b7" stroke-opacity="0.15"/>
+  <ellipse rx="172" ry="73" transform="rotate(-32)" fill="none" stroke="#4a6f96" stroke-width="1.2"/>
+  <circle r="80" fill="url(#moon)"/>
+  <circle cx="-26" cy="-26" r="20" fill="#e0f9f7" opacity="0.1"/>
+  <circle cx="29" cy="25" r="31" fill="#262e5e" opacity="0.12"/>
+  <circle cx="-26" cy="38" r="12" fill="#262e5e" opacity="0.12"/>
+  <path d="M-146 93C-77 116 95 16 146-92" fill="none" stroke="#90f0dd" stroke-width="2"/>
+  <circle cx="146" cy="-92" r="6" fill="#9af5e5"/>
+  <path d="M-125-95h12m-6-6v12M107 105h10m-5-5v10" stroke="#93acc8"/>
+  <circle cx="103" cy="-116" r="2" fill="#96adc6"/>
+  <circle cx="-142" cy="33" r="2" fill="#96adc6"/>
+ </g>
+ <path d="M56 354H1144" stroke="#27364d"/>
+<text x="57" y="383" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="500" fill="#8a9ab5" letter-spacing="2">@MEAZBAHMEHEDI</text><text x="969" y="383" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" font-weight="500" fill="#87a7b8" letter-spacing="1">LEARN / BUILD / REPEAT</text></g></svg>
