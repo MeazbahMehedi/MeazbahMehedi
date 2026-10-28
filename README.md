@@ -1,63 +1,65 @@
-<!-- Custom visuals are stored in assets/ so the profile does not depend on external badge or stats services. -->
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Meazbah Mehedi — software engineering student from Bangladesh. Curiosity into code. Ideas into projects." />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.meazbahmehedi.com"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
-  <a href="https://github.com/MeazbahMehedi?tab=repositories"><strong>Projects</strong></a> &nbsp; · &nbsp;
-  <a href="mailto:meazbahmehedi@gmail.com"><strong>Contact</strong></a>
-</p>
+<img src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/7ca8e20d-8b15-4737-a077-79f1cd2c1889" width="100%" alt="Black Typographic Retro Moon and Astronaut Twitter Header" />
 
-## A little about me
+# Hey there 👋, wassup? I'm Meazbah Mehedi
 
-I'm **Meazbah Mehedi**, a software engineering student from **Bangladesh**. I'm developing my programming skills through hands-on practice, with **Python** as my current focus.
+### A passionate software developer from Bangladesh
 
-I enjoy breaking down problems, understanding how things work, and turning what I learn into small, useful projects. This profile is where I share that progress.
+<a href="https://www.meazbahmehedi.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="Website" /></a>
+<a href="mailto:meazbahmehedi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email me" /></a>
+<img src="https://komarev.com/ghpvc/?username=meazbahmehedi&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views" />
 
-## What I'm focused on
+</div>
 
-| Python | Core foundations | Learning by building |
-| :--- | :--- | :--- |
-| Strengthening my understanding of Python through consistent practice. | Developing problem-solving skills and a solid foundation in C and C++. | Applying new concepts in small projects and improving them as I learn. |
+---
 
-## Languages I'm working with
+## 👨‍💻 About me
+
+<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" width="280" alt="Profile illustration" />
+
+Welcome to my GitHub profile! I'm currently a student aspiring to become a software engineer. While I may not have extensive coding skills or knowledge at the moment, I'm actively learning and consider myself a quick learner. I'm excited to embark on this journey and develop my coding abilities. Stay tuned for future projects and progress!
+
+🌱 **I'm currently learning Python.**
+
+📫 **How to reach me:** [meazbahmehedi@gmail.com](mailto:meazbahmehedi@gmail.com)
+
+<br clear="both" />
+
+## 💬 My mindset
+
+> I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
+
+---
+
+## 🛠 Languages and tools
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /></a>
+      <br /><strong>C</strong>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /></a>
+      <br /><strong>C++</strong>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
+      <br /><strong>Python</strong>
+    </td>
+  </tr>
+</table>
+
+## 🌐 Connect with me
 
 <p>
-  <img src="./assets/language-python.svg" width="260" height="91" alt="Python: current learning focus" />
-  <img src="./assets/language-c.svg" width="260" height="91" alt="C: programming foundations" />
-  <img src="./assets/language-cpp.svg" width="260" height="91" alt="C++: programming foundations" />
+  <a href="https://twitter.com/meazbahmehedi"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&amp;logo=x&amp;logoColor=67E8F9" alt="meazbahmehedi on Twitter" /></a>
+  <a href="https://fb.com/meazbahmehedi"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&amp;logo=facebook&amp;logoColor=67E8F9" alt="meazbahmehedi on Facebook" /></a>
+  <a href="https://instagram.com/meazbah.mehedi"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=67E8F9" alt="meazbah.mehedi on Instagram" /></a>
+  <a href="https://www.youtube.com/c/meazbahmehedi"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&amp;logo=youtube&amp;logoColor=67E8F9" alt="meazbahmehedi on YouTube" /></a>
+  <a href="https://discord.com/invite/pCxqQYZQHf"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&amp;logo=discord&amp;logoColor=67E8F9" alt="Join my Discord" /></a>
+  <a href="https://www.meazbahmehedi.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="www.meazbahmehedi.com" /></a>
 </p>
 
-## How I approach learning
-
-> If I don't know the answer, I'll be honest about it—and put in the work to find it.
-
-I value curiosity, clear thinking, and steady progress. Every problem is an opportunity to learn something I can use in the next project.
-
-## Let's connect
-
-Interested in exchanging ideas, sharing feedback, or learning together? Feel free to reach out.
-
-<p>
-  <a href="https://www.meazbahmehedi.com"><img src="./assets/button-portfolio.svg" width="188" height="48" alt="Visit my portfolio" /></a>
-  <a href="mailto:meazbahmehedi@gmail.com"><img src="./assets/button-email.svg" width="188" height="48" alt="Email me at meazbahmehedi@gmail.com" /></a>
-  <a href="https://github.com/MeazbahMehedi?tab=repositories"><img src="./assets/button-github.svg" width="188" height="48" alt="Explore my repositories" /></a>
-</p>
-
-**Email:** [meazbahmehedi@gmail.com](mailto:meazbahmehedi@gmail.com)
-
-<details>
-<summary><strong>Find me elsewhere</strong></summary>
-
-- [X / Twitter](https://twitter.com/meazbahmehedi)
-- [Facebook](https://fb.com/meazbahmehedi)
-- [Instagram](https://instagram.com/meazbah.mehedi)
-- [YouTube](https://www.youtube.com/c/meazbahmehedi)
-- [Discord](https://discord.com/invite/pCxqQYZQHf)
-
-</details>
-
-<br />
-
-<img src="./assets/profile-footer.svg" width="100%" alt="Always learning. Always building." />
+---
