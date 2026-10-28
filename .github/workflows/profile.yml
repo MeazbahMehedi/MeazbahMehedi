@@ -1,0 +1,79 @@
+name: Refresh profile animations
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 22 * * *'
+  push:
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Check chart data handling
+        run: python -m unittest discover -s tests -v
+
+      - name: Refresh daily public commit chart
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/update_commits.py
+
+      - name: Refresh local contribution activity graph
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/update_activity.py
+
+      - name: Generate contribution snake
+        id: snake
+        continue-on-error: true
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ github.token }}
+          outputs: |
+            assets/snake-light.svg?palette=github-light&color_snake=%23087f8c
+            assets/snake-dark.svg?palette=github-dark&color_snake=%2367e8d3
+
+      - name: Report snake refresh failure
+        if: steps.snake.outcome == 'failure'
+        run: echo '::warning::Snake refresh failed; the previous snake image is kept. Run this workflow again to retry.'
+
+      - name: Publish refreshed images and daily data
+        env:
+          PROFILE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets data
+          if git diff --cached --quiet; then
+            echo 'Profile data is already up to date.'
+            exit 0
+          fi
+          git commit -m 'Update profile graphs and snake animation'
+          git pull --rebase origin "$PROFILE_BRANCH"
+          git push origin "HEAD:$PROFILE_BRANCH"

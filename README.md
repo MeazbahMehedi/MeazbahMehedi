@@ -2,9 +2,10 @@
 
 <img src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/7ca8e20d-8b15-4737-a077-79f1cd2c1889" width="100%" alt="Black Typographic Retro Moon and Astronaut Twitter Header" />
 
-# Hey there 👋, wassup? I'm Meazbah Mehedi
-
-### A passionate software developer from Bangladesh
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/intro-static.png" />
+  <img src="./assets/intro.gif" width="100%" alt="Hey there, wassup? I'm Meazbah Mehedi — a passionate software developer from Bangladesh" />
+</picture>
 
 <a href="https://www.meazbahmehedi.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="Website" /></a>
 <a href="mailto:meazbahmehedi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email me" /></a>
@@ -50,6 +51,41 @@ Welcome to my GitHub profile! I'm currently a student aspiring to become a softw
     </td>
   </tr>
 </table>
+
+## 📊 Daily commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/daily-commits-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/daily-commits-light.svg" />
+  <img src="./assets/daily-commits-dark.svg" width="100%" alt="My public commits per day over the last 31 UTC dates, with a numeric count above each day" />
+</picture>
+
+<p align="center">
+  <a href="./data/DAILY-COMMITS.md">View daily counts</a> &nbsp; · &nbsp;
+  <a href="./data/daily-commits.csv">CSV data</a>
+</p>
+
+<sub>Unique public commits indexed by GitHub on default branches, grouped by author date in UTC. Includes merge commits. Refreshed daily; today's count is partial.</sub>
+
+## 📈 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
+  <img src="./assets/activity-dark.svg" width="100%" alt="My recent daily GitHub contribution activity" />
+</picture>
+
+<sub>Contributions include commits, issues, pull requests and other eligible activity.</sub>
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
+  <img src="./assets/snake-dark.svg" width="100%" alt="Animated snake generated from my GitHub contribution calendar" />
+</picture>
+
+---
 
 ## 🌐 Connect with me
 
