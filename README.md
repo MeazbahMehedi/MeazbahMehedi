@@ -1,57 +1,63 @@
-
-
-
-![Black Typographic Retro Moon and Astronaut Twitter Header](https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/7ca8e20d-8b15-4737-a077-79f1cd2c1889)
-
-# Hey there 👋,Wassup? I'm Meazbah Mehedi
-## A passionate software developer from Bangladesh
-
-
-
-
-
-<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" alt="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70" width="400">
-
-
-
-![Profile views](https://komarev.com/ghpvc/?username=meazbahmehedi&label=Profile%20views&color=0e75b6&style=flat)
-
-- Welcome to my GitHub profile! I'm currently a student aspiring to become a software engineer. While I may not have extensive coding skills or knowledge at the moment, I'm actively learning and consider myself a quick learner. I'm excited to embark on this journey and develop my coding abilities. Stay tuned for future projects and progress!
-
-- 🌱 I’m currently learning **Python**
-
-- 💬  I’m the type of person that if you ask me a question and I don’t know the answer,
- I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.
-
-- 📫 How to reach me: meazbahmehedi@gmail.com
-
-
-## Connect with me:
-<a href="https://twitter.com/meazbahmehedi" target="_blank"><img align="left" alt="meazbahmehedi | Twitter" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
-<a href="https://fb.com/meazbahmehedi" target="_blank"><img align="left" alt="meazbahmehedi | Facebook" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://instagram.com/meazbah.mehedi" target="_blank"><img align="left" alt="meazbah.mehedi | Instagram" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
-<a href="https://www.youtube.com/c/meazbahmehedi" target="_blank"><img align="left" alt="meazbahmehedi | YouTube" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" /></a>
-<a href="https://discord.com/invite/pCxqQYZQHf" target="_blank"><img align="left" alt="https://discord.com/invite/pCxqQYZQHf | Discord" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" /></a>
-<a href="https://www.meazbahmehedi.com" target="_blank"><img align="left" alt="www.meazbahmehedi.com | RSS" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" /></a>
-
-
- `
-
-<p align="left"> 
-<div class="heading-container">
-  <h3 align="left">Languages and Tools:</h3>
-</div>
-
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
+<!-- Custom visuals are stored in assets/ so the profile does not depend on external badge or stats services. -->
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Meazbah Mehedi — software engineering student from Bangladesh. Curiosity into code. Ideas into projects." />
 </p>
 
+<p align="center">
+  <a href="https://www.meazbahmehedi.com"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
+  <a href="https://github.com/MeazbahMehedi?tab=repositories"><strong>Projects</strong></a> &nbsp; · &nbsp;
+  <a href="mailto:meazbahmehedi@gmail.com"><strong>Contact</strong></a>
+</p>
 
+## A little about me
+
+I'm **Meazbah Mehedi**, a software engineering student from **Bangladesh**. I'm developing my programming skills through hands-on practice, with **Python** as my current focus.
+
+I enjoy breaking down problems, understanding how things work, and turning what I learn into small, useful projects. This profile is where I share that progress.
+
+## What I'm focused on
+
+| Python | Core foundations | Learning by building |
+| :--- | :--- | :--- |
+| Strengthening my understanding of Python through consistent practice. | Developing problem-solving skills and a solid foundation in C and C++. | Applying new concepts in small projects and improving them as I learn. |
+
+## Languages I'm working with
+
+<p>
+  <img src="./assets/language-python.svg" width="260" height="91" alt="Python: current learning focus" />
+  <img src="./assets/language-c.svg" width="260" height="91" alt="C: programming foundations" />
+  <img src="./assets/language-cpp.svg" width="260" height="91" alt="C++: programming foundations" />
+</p>
+
+## How I approach learning
+
+> If I don't know the answer, I'll be honest about it—and put in the work to find it.
+
+I value curiosity, clear thinking, and steady progress. Every problem is an opportunity to learn something I can use in the next project.
+
+## Let's connect
+
+Interested in exchanging ideas, sharing feedback, or learning together? Feel free to reach out.
+
+<p>
+  <a href="https://www.meazbahmehedi.com"><img src="./assets/button-portfolio.svg" width="188" height="48" alt="Visit my portfolio" /></a>
+  <a href="mailto:meazbahmehedi@gmail.com"><img src="./assets/button-email.svg" width="188" height="48" alt="Email me at meazbahmehedi@gmail.com" /></a>
+  <a href="https://github.com/MeazbahMehedi?tab=repositories"><img src="./assets/button-github.svg" width="188" height="48" alt="Explore my repositories" /></a>
+</p>
+
+**Email:** [meazbahmehedi@gmail.com](mailto:meazbahmehedi@gmail.com)
+
+<details>
+<summary><strong>Find me elsewhere</strong></summary>
+
+- [X / Twitter](https://twitter.com/meazbahmehedi)
+- [Facebook](https://fb.com/meazbahmehedi)
+- [Instagram](https://instagram.com/meazbah.mehedi)
+- [YouTube](https://www.youtube.com/c/meazbahmehedi)
+- [Discord](https://discord.com/invite/pCxqQYZQHf)
+
+</details>
+
+<br />
+
+<img src="./assets/profile-footer.svg" width="100%" alt="Always learning. Always building." />
