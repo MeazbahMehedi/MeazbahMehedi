@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/7ca8e20d-8b15-4737-a077-79f1cd2c1889" width="100%" alt="Black Typographic Retro Moon and Astronaut Twitter Header" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/space-banner-static.png" />
+  <img src="./assets/space-banner.gif" width="100%" alt="HAVE FUN IN CYBERSPACE! — floating astronaut, twinkling stars, moon glow and a waving astronaut panda" />
+</picture>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/intro-static.png" />
   <img src="./assets/intro.gif" width="100%" alt="Hey there, wassup? I'm Meazbah Mehedi — a passionate software developer from Bangladesh" />
 </picture>
 
-<a href="https://www.meazbahmehedi.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/meazbahmehedi/" target="_blank" rel="noopener noreferrer"><img src="./assets/linkedin.svg" height="28" alt="Meazbah Mehedi on LinkedIn" /></a>
+<a href="https://www.meazbahmehedi.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="Website" /></a>
 <a href="mailto:meazbahmehedi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email me" /></a>
 <img src="https://komarev.com/ghpvc/?username=meazbahmehedi&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views" />
 
@@ -17,7 +21,12 @@
 
 ## 👨‍💻 About me
 
-<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" width="280" alt="Profile illustration" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/panda-static.png" />
+  <img align="right" src="./assets/panda.gif" width="150" height="150" alt="A friendly astronaut panda waving and blinking" />
+</picture>
+
+<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" width="220" alt="Profile illustration" />
 
 Welcome to my GitHub profile! I'm currently a student aspiring to become a software engineer. While I may not have extensive coding skills or knowledge at the moment, I'm actively learning and consider myself a quick learner. I'm excited to embark on this journey and develop my coding abilities. Stay tuned for future projects and progress!
 
@@ -90,12 +99,13 @@ Welcome to my GitHub profile! I'm currently a student aspiring to become a softw
 ## 🌐 Connect with me
 
 <p>
-  <a href="https://twitter.com/meazbahmehedi"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&amp;logo=x&amp;logoColor=67E8F9" alt="meazbahmehedi on Twitter" /></a>
-  <a href="https://fb.com/meazbahmehedi"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&amp;logo=facebook&amp;logoColor=67E8F9" alt="meazbahmehedi on Facebook" /></a>
-  <a href="https://instagram.com/meazbah.mehedi"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=67E8F9" alt="meazbah.mehedi on Instagram" /></a>
-  <a href="https://www.youtube.com/c/meazbahmehedi"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&amp;logo=youtube&amp;logoColor=67E8F9" alt="meazbahmehedi on YouTube" /></a>
-  <a href="https://discord.com/invite/pCxqQYZQHf"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&amp;logo=discord&amp;logoColor=67E8F9" alt="Join my Discord" /></a>
-  <a href="https://www.meazbahmehedi.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="www.meazbahmehedi.com" /></a>
+  <a href="https://www.linkedin.com/in/meazbahmehedi/" target="_blank" rel="noopener noreferrer"><img src="./assets/linkedin.svg" height="28" alt="Meazbah Mehedi on LinkedIn" /></a>
+  <a href="https://twitter.com/meazbahmehedi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&amp;logo=x&amp;logoColor=67E8F9" alt="meazbahmehedi on Twitter" /></a>
+  <a href="https://fb.com/meazbahmehedi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&amp;logo=facebook&amp;logoColor=67E8F9" alt="meazbahmehedi on Facebook" /></a>
+  <a href="https://instagram.com/meazbah.mehedi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=67E8F9" alt="meazbah.mehedi on Instagram" /></a>
+  <a href="https://www.youtube.com/c/meazbahmehedi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&amp;logo=youtube&amp;logoColor=67E8F9" alt="meazbahmehedi on YouTube" /></a>
+  <a href="https://discord.com/invite/pCxqQYZQHf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&amp;logo=discord&amp;logoColor=67E8F9" alt="Join my Discord" /></a>
+  <a href="https://www.meazbahmehedi.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="www.meazbahmehedi.com" /></a>
 </p>
 
 ---
