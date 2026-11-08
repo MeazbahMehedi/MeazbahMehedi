@@ -11,7 +11,7 @@
 </picture>
 
 <a href="https://www.linkedin.com/in/meazbahmehedi/" target="_blank" rel="noopener noreferrer"><img src="./assets/linkedin.svg" height="28" alt="Meazbah Mehedi on LinkedIn" /></a>
-<a href="https://www.meazbahmehedi.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="Website" /></a>
+<a href="https://its.meazbahmehedi.workers.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=67E8F9" alt="Website" /></a>
 <a href="mailto:meazbahmehedi@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email me" /></a>
 <img src="https://komarev.com/ghpvc/?username=meazbahmehedi&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile views" />
 
