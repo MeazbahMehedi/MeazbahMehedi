@@ -1,0 +1,46 @@
+{
+  "taglines": [
+    "Building security tools for AI systems",
+    "Finding accessibility barriers on the web",
+    "Reproducing ML research on a single CPU",
+    "Python · Flask · FastAPI · Playwright"
+  ],
+  "projects": [
+    {
+      "slug": "intentshield",
+      "name": "IntentShield",
+      "category": "AI SECURITY",
+      "summary": "Prompt-injection detection and evaluation workspace",
+      "description": "Layered threat detection with explainable evidence, a central ALLOW / WARN / REVIEW / BLOCK policy, an evaluation lab and an optional gateway to a local LLM.",
+      "stack": ["Python", "Flask", "SQLite", "scikit-learn"],
+      "url": "https://github.com/MeazbahMehedi/PromptGuard"
+    },
+    {
+      "slug": "accesslens",
+      "name": "AccessLens",
+      "category": "ACCESSIBILITY",
+      "summary": "Local-first website accessibility scanner",
+      "description": "Renders pages in Chromium, runs axe-core WCAG checks, keeps screenshot evidence and scan history, and exports PDF, DOCX, CSV and JSON reports.",
+      "stack": ["FastAPI", "Playwright", "axe-core", "SQLite"],
+      "url": "https://github.com/MeazbahMehedi/AccessCheck"
+    },
+    {
+      "slug": "medevo-evaluation",
+      "name": "MedEvo Evaluation Study",
+      "category": "ML RESEARCH",
+      "summary": "Independent reproduction of a medical reasoning method",
+      "description": "Reimplements the MedEvo self-correction loop on one CPU. LoRA adaptation of Qwen3.5-2B raised strict accuracy from 21.5% to 50.0% on VQA-RAD and SLAKE.",
+      "stack": ["Python", "Transformers", "PEFT / LoRA", "VQA-RAD"],
+      "url": "https://github.com/MeazbahMehedi/medevo-evaluation"
+    },
+    {
+      "slug": "campusfind",
+      "name": "CampusFind",
+      "category": "WEB APPLICATION",
+      "summary": "Campus lost-and-found management system",
+      "description": "Student reports, private ownership claims, administrator review and confirmed returns, with a handover queue and a full decision history.",
+      "stack": ["Flask", "SQLAlchemy", "SQLite", "ReportLab"],
+      "url": "https://github.com/MeazbahMehedi/CampusFind"
+    }
+  ]
+}

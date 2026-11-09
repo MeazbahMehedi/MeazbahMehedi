@@ -8,6 +8,7 @@ on:
     paths:
       - README.md
       - scripts/**
+      - data/projects.json
       - .github/workflows/profile.yml
 
 permissions:
@@ -47,6 +48,15 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/update_activity.py
+
+      - name: Build tagline, project cards and dividers
+        run: python scripts/build_profile_art.py
+
+      - name: Refresh profile stats card
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/update_stats.py
 
       - name: Generate contribution snake
         id: snake
