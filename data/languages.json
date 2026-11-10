@@ -1,18 +1,19 @@
 {
   "username": "MeazbahMehedi",
-  "updated_at": "2026-11-09T16:43:30Z",
+  "updated_at": "2026-11-10T04:11:48Z",
   "source": "GitHub repository languages API",
-  "repositories": 8,
+  "repositories": 9,
   "bytes": {
-    "Batchfile": 1676,
+    "Batchfile": 1976,
     "CSS": 102202,
     "Dockerfile": 924,
     "HTML": 209835,
     "Inno Setup": 1003,
+    "Java": 57462,
     "JavaScript": 61138,
     "Mako": 494,
     "PowerShell": 881,
     "Python": 1637187,
-    "Shell": 720
+    "Shell": 888
   }
 }
