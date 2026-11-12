@@ -40,8 +40,8 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 **🔭 Currently**
 
 - 🔬 **Researching** how reliable static-analysis security findings are in AI-generated Python pull requests
-- 🧪 **Evaluating** the [MedEvo](https://github.com/MeazbahMehedi/medevo-evaluation) medical reasoning method on VQA-RAD and SLAKE
-- 🛡️ **Building** [IntentShield](https://github.com/MeazbahMehedi/PromptGuard), a prompt-injection detection and evaluation workspace
+- 🧪 **Evaluated** the [MedEvo](https://github.com/MeazbahMehedi/medevo-evaluation) medical reasoning method on VQA-RAD and SLAKE
+- 🛡️ **Commpleted** [IntentShield](https://github.com/MeazbahMehedi/PromptGuard), a prompt-injection detection and evaluation workspace
 - 🤝 **Open to** research collaborations and master's opportunities in computer science and AI
 
 <br clear="both" />
