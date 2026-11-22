@@ -51,9 +51,10 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 ## 💬 My mindset
 
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/mindset-static-light.svg" />
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/mindset-static.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/mindset-light.svg" />
-  <img src="./assets/mindset-dark.svg" width="100%" alt="Curiosity becomes understanding: ask, explore, connect, discover." />
+  <img src="./assets/mindset-dark.svg" width="100%" alt="Honest about what I know. Relentless about what I can learn." />
 </picture>
 
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
