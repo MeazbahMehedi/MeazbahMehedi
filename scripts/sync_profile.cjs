@@ -55,7 +55,7 @@ function toolTable(languages, frameworks, tools) {
     const icons=shown.map(n=>techIcons[n]).join(',');
     return '<tr><td><strong>'+label+'</strong></td><td>'+(shown.length?'<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i='+icons+'&amp;theme=light" /><img src="https://skillicons.dev/icons?i='+icons+'&amp;theme=dark" height="40" alt="'+esc(shown.join(', '))+'" /></picture>':'No supported technology detected')+'</td></tr>';
   };
-  return '<table>\n'+row('Languages',languages)+'\n'+row('Frameworks and data',frameworks)+'\n'+row('Tools',tools)+'\n</table>\n\n<sub>Up to eight detected technologies per row. Languages ranked by code size; frameworks by repository usage. Refreshes hourly.</sub>';
+  return '<table>\n'+row('Languages',languages)+'\n'+row('Frameworks and data',frameworks)+'\n'+row('Tools',tools)+'\n</table>';
 }
 async function run({github, context, core}) {
   const owner=context.repo.owner;
@@ -116,7 +116,7 @@ async function run({github, context, core}) {
   const languages=Object.keys(totals).sort((a,b)=>totals[b]-totals[a]);
   const cards=projects.map(p=>'<a href="'+esc(p.url)+'"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-'+p.slug+'-light.svg" /><img src="./assets/project-'+p.slug+'-dark.svg" width="49%" alt="'+esc(p.name+': '+p.description)+'" /></picture></a>');
   let readme=fs.readFileSync('README.md','utf8');
-  readme=replaceBlock(readme,'CURRENT',entries.join('\n')+'\n\n<sub>Status updates hourly. Finished = no default-branch commits for 20 days; a new commit returns it to Working on.</sub>');
+  readme=replaceBlock(readme,'CURRENT',entries.join('\n'));
   readme=replaceBlock(readme,'PROJECTS','<p align="center">\n'+cards.slice(0,2).join('\n')+'\n</p>\n<p align="center">\n'+cards.slice(2).join('\n')+'\n</p>');
   readme=replaceBlock(readme,'TOOLS',toolTable(languages,[...frameworks].sort((a,b)=>frameworkCounts.get(b)-frameworkCounts.get(a)||a.localeCompare(b)),[...tools].sort()));
   readme=replaceBlock(readme,'RESEARCH',research.join('\n')||'Reports and findings will appear here when available in public research repositories.');

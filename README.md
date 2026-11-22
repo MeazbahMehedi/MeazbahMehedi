@@ -43,7 +43,6 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 - **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift <sub>· Last commit: 7 days ago</sub>
 - **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 9 days ago</sub>
 
-<sub>Status updates hourly. Finished = no default-branch commits for 20 days; a new commit returns it to Working on.</sub>
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -92,9 +91,7 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <tr><td><strong>Tools</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=light" /><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=dark" height="40" alt="Docker, Git, GitHub, GitHub Actions" /></picture></td></tr>
 </table>
 
-<sub>Up to eight detected technologies per row. Languages ranked by code size; frameworks by repository usage. Refreshes hourly.</sub>
 <!-- SYNC:TOOLS:END -->
-
 
 
 <picture>
@@ -116,7 +113,6 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
   <img src="./assets/stats-dark.svg" width="100%" alt="Public commits, contributions, active days and longest streak over the last 31 days, with my top languages by code size" />
 </picture>
 
-<sub>Totals cover the last 31 UTC dates. Languages are GitHub's byte counts across my own public, non-fork repositories. Refreshed hourly.</sub>
 
 ## 📈 Daily commits
 
@@ -131,7 +127,6 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
   <a href="./data/daily-commits.csv">CSV data</a>
 </p>
 
-<sub>Unique public commits indexed by GitHub on default branches, grouped by author date in UTC. Includes merge commits. Refreshed hourly; today's count is partial.</sub>
 
 ## 🗓 Contribution activity
 
@@ -141,7 +136,6 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
   <img src="./assets/activity-dark.svg" width="100%" alt="My recent daily GitHub contribution activity" />
 </picture>
 
-<sub>Contributions include commits, issues, pull requests and other eligible activity.</sub>
 
 ## 🐍 Contribution snake
 
