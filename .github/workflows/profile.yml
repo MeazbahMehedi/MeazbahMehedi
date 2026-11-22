@@ -42,7 +42,6 @@ jobs:
         run: node --test tests/sync_profile.test.cjs
 
       - name: Sync public projects and technology sections
-        continue-on-error: true
         uses: actions/github-script@v8
         with:
           script: |

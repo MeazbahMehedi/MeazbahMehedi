@@ -33,9 +33,7 @@
   <img align="right" src="./assets/panda.gif" width="150" height="150" alt="A friendly astronaut panda waving and blinking" />
 </picture>
 
-<img align="right" src="https://github.com/MeazbahMehedi/MeazbahMehedi/assets/96946083/5992ebe0-c909-4a22-8774-4a728bd03625" width="220" alt="Profile illustration" />
-
-I'm a software developer from Bangladesh who builds practical Python tools for security, accessibility and machine-learning evaluation. I like work where the result can be checked: a scanner that shows its evidence, a detector with its own evaluation lab, a reproduction study with confidence intervals.
+I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I build tools for AI security, web accessibility, and machine-learning evaluation, with an emphasis on reproducible results and clear evidence.
 
 **🔭 Currently**
 
@@ -79,6 +77,12 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 </p>
 <!-- SYNC:PROJECTS:END -->
 
+## 🔬 Research highlights
+
+<!-- SYNC:RESEARCH:START -->
+Reports and findings are being indexed from public research repositories.
+<!-- SYNC:RESEARCH:END -->
+
 ## 🛠 Languages and tools
 
 <!-- SYNC:TOOLS:START -->
@@ -97,6 +101,10 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
   <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
   <img src="./assets/divider-dark.svg" width="100%" alt="" />
 </picture>
+
+<!-- SYNC:HEALTH:START -->
+[![Profile refresh](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml/badge.svg)](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml)
+<!-- SYNC:HEALTH:END -->
 
 ## 📊 Profile stats
 

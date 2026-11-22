@@ -150,6 +150,8 @@ def render_card(project, theme, index=0):
         x += width + 8
     if x > CARD_WIDTH - 24:
         raise ValueError(f'Stack chips for {project["name"]} do not fit on one line.')
+    if project.get('footer'):
+        parts.append(text(32, 246, project['footer'], 11, colors['muted']))
     parts.append('</g></svg>')
     return ''.join(parts)
 
