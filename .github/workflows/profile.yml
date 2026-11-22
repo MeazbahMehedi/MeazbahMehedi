@@ -3,11 +3,12 @@ name: Refresh profile animations
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 22 * * *'
+    - cron: '23 * * * *'
   push:
     paths:
       - README.md
       - scripts/**
+      - tests/**
       - data/projects.json
       - .github/workflows/profile.yml
 
@@ -36,6 +37,16 @@ jobs:
 
       - name: Check chart data handling
         run: python -m unittest discover -s tests -v
+
+      - name: Test automatic profile sync
+        run: node --test tests/sync_profile.test.cjs
+
+      - name: Sync public projects and technology sections
+        continue-on-error: true
+        uses: actions/github-script@v8
+        with:
+          script: |
+            await require('./scripts/sync_profile.cjs').run({github, context, core});
 
       - name: Refresh daily public commit chart
         env:
@@ -79,11 +90,11 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets data
+          git add README.md assets data
           if git diff --cached --quiet; then
             echo 'Profile data is already up to date.'
             exit 0
           fi
-          git commit -m 'Update profile graphs and snake animation'
+          git commit -m 'Sync profile projects, tools and activity'
           git pull --rebase origin "$PROFILE_BRANCH"
           git push origin "HEAD:$PROFILE_BRANCH"

@@ -39,14 +39,22 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 
 **🔭 Currently**
 
+<!-- SYNC:CURRENT:START -->
 - 🔬 **Researching** how reliable static-analysis security findings are in AI-generated Python pull requests
 - 🧪 **Evaluated** the [MedEvo](https://github.com/MeazbahMehedi/medevo-evaluation) medical reasoning method on VQA-RAD and SLAKE
-- 🛡️ **Commpleted** [IntentShield](https://github.com/MeazbahMehedi/PromptGuard), a prompt-injection detection and evaluation workspace
+- 🛡️ **Completed** [IntentShield](https://github.com/MeazbahMehedi/PromptGuard), a prompt-injection detection and evaluation workspace
 - 🤝 **Open to** research collaborations and master's opportunities in computer science and AI
+<!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
 
 ## 💬 My mindset
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/mindset-static.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/mindset-light.svg" />
+  <img src="./assets/mindset-dark.svg" width="100%" alt="Curiosity becomes understanding: ask, explore, connect, discover." />
+</picture>
 
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.
 
@@ -57,6 +65,7 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 
 ## 🚀 Featured projects
 
+<!-- SYNC:PROJECTS:START -->
 <p align="center">
   <a href="https://github.com/MeazbahMehedi/PromptGuard"><picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/project-intentshield-light.svg" />
@@ -77,9 +86,11 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
     <img src="./assets/project-campusfind-dark.svg" width="49%" alt="CampusFind — campus lost-and-found management system. Flask, SQLAlchemy, SQLite, ReportLab." />
   </picture></a>
 </p>
+<!-- SYNC:PROJECTS:END -->
 
 ## 🛠 Languages and tools
 
+<!-- SYNC:TOOLS:START -->
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -94,6 +105,9 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
     <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,githubactions,docker,linux,pycharm&amp;theme=light" /><img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,pycharm&amp;theme=dark" height="40" alt="Git, GitHub Actions, Docker, Linux, PyCharm" /></picture></td>
   </tr>
 </table>
+<!-- SYNC:TOOLS:END -->
+
+
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
@@ -108,7 +122,7 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
   <img src="./assets/stats-dark.svg" width="100%" alt="Public commits, contributions, active days and longest streak over the last 31 days, with my top languages by code size" />
 </picture>
 
-<sub>Totals cover the last 31 UTC dates. Languages are GitHub's byte counts across my own public, non-fork repositories. Refreshed daily.</sub>
+<sub>Totals cover the last 31 UTC dates. Languages are GitHub's byte counts across my own public, non-fork repositories. Refreshed hourly.</sub>
 
 ## 📈 Daily commits
 
@@ -123,7 +137,7 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
   <a href="./data/daily-commits.csv">CSV data</a>
 </p>
 
-<sub>Unique public commits indexed by GitHub on default branches, grouped by author date in UTC. Includes merge commits. Refreshed daily; today's count is partial.</sub>
+<sub>Unique public commits indexed by GitHub on default branches, grouped by author date in UTC. Includes merge commits. Refreshed hourly; today's count is partial.</sub>
 
 ## 🗓 Contribution activity
 

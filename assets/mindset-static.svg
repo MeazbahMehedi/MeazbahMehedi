@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-labelledby="title"><title id="title">Curiosity becomes understanding</title>
+<defs><linearGradient id="g"><stop stop-color="#67e8f9" stop-opacity=".04"/><stop offset="1" stop-color="#67e8f9" stop-opacity=".22"/></linearGradient><clipPath id="typing"><rect x="300" y="100" width="820" height="45"></rect></clipPath></defs>
+<style>@media(prefers-reduced-motion:reduce){.moving{display:none}.caption{clip-path:none}}</style>
+<rect x="1" y="1" width="1198" height="198" rx="20" fill="#0d1117" stroke="#67e8f9" stroke-opacity=".25"/>
+<rect x="1" y="1" width="1198" height="198" rx="20" fill="url(#g)"/>
+<g fill="#e6edf3" opacity=".45"><circle cx="60" cy="40" r="1.5"/><circle cx="1120" cy="50" r="2"/><circle cx="970" cy="168" r="1"/><circle cx="510" cy="37" r="1.5"/></g>
+<g stroke="#67e8f9" fill="none"><ellipse cx="148" cy="100" rx="95" ry="55" stroke-opacity=".3"/><path d="M64 125L113 60L179 129L225 78" stroke-dasharray="5 7" stroke-opacity=".5"/></g>
+<g fill="#67e8f9" font-family="monospace" font-size="30"><text x="72" y="105">?</text><text x="205" y="78">?</text></g>
+<g stroke="#67e8f9" fill="#67e8f9" fill-opacity=".15" stroke-width="3"><path d="M132 113C105 82 126 55 149 55C180 55 192 87 166 113L164 129H134Z"/><path d="M135 137H164M140 145H159" fill="none"/></g>
+
+<text x="300" y="72" fill="#67e8f9" font-family="monospace" font-size="14" letter-spacing="3">MY MINDSET / CURIOSITY IN MOTION</text>
+<text class="caption" x="300" y="132" fill="#e6edf3" font-family="monospace" font-size="28" clip-path="url(#typing)">I will find the answer.</text>
+<text x="300" y="165" fill="#67e8f9" font-family="monospace" font-size="14">ASK   ·   EXPLORE   ·   CONNECT   ·   DISCOVER</text></svg>
