@@ -42,7 +42,6 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 - **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA… <sub>· Last commit: 2 days ago</sub>
 - **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift <sub>· Last commit: 7 days ago</sub>
 - **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 9 days ago</sub>
-
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -90,7 +89,6 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <tr><td><strong>Frameworks and data</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask,sqlite,pytorch,fastapi,react&amp;theme=light" /><img src="https://skillicons.dev/icons?i=flask,sqlite,pytorch,fastapi,react&amp;theme=dark" height="40" alt="Flask, SQLite, PyTorch, FastAPI, React" /></picture></td></tr>
 <tr><td><strong>Tools</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=light" /><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=dark" height="40" alt="Docker, Git, GitHub, GitHub Actions" /></picture></td></tr>
 </table>
-
 <!-- SYNC:TOOLS:END -->
 
 
@@ -102,7 +100,7 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <!-- SYNC:HEALTH:START -->
 [![Profile refresh](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml/badge.svg)](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml)
 
-<sub>Last synced: 2026-11-22 16:42 UTC · Automatic hourly updates</sub>
+<sub>Last synced: 2026-11-22 16:44 UTC · Automatic hourly updates</sub>
 <!-- SYNC:HEALTH:END -->
 
 ## 📊 Profile stats
