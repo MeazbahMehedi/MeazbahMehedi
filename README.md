@@ -40,10 +40,10 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 **🔭 Currently**
 
 <!-- SYNC:CURRENT:START -->
-- 🔬 **Researching** how reliable static-analysis security findings are in AI-generated Python pull requests
-- 🧪 **Evaluated** the [MedEvo](https://github.com/MeazbahMehedi/medevo-evaluation) medical reasoning method on VQA-RAD and SLAKE
-- 🛡️ **Completed** [IntentShield](https://github.com/MeazbahMehedi/PromptGuard), a prompt-injection detection and evaluation workspace
-- 🤝 **Open to** research collaborations and master's opportunities in computer science and AI
+- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP
+- **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA a
+- **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift
+- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress.
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -67,24 +67,12 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 
 <!-- SYNC:PROJECTS:START -->
 <p align="center">
-  <a href="https://github.com/MeazbahMehedi/PromptGuard"><picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/project-intentshield-light.svg" />
-    <img src="./assets/project-intentshield-dark.svg" width="49%" alt="IntentShield — prompt-injection detection and evaluation workspace. Python, Flask, SQLite, scikit-learn." />
-  </picture></a>
-  <a href="https://github.com/MeazbahMehedi/AccessCheck"><picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/project-accesslens-light.svg" />
-    <img src="./assets/project-accesslens-dark.svg" width="49%" alt="AccessLens — local-first website accessibility scanner. FastAPI, Playwright, axe-core, SQLite." />
-  </picture></a>
+<a href="https://github.com/MeazbahMehedi/CSTBS-PHP"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-1-light.svg" /><img src="./assets/project-live-1-dark.svg" width="49%" alt="CSTBS-PHP: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP · 0 stars" /></picture></a>
+<a href="https://github.com/MeazbahMehedi/medevo-evaluation"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-2-light.svg" /><img src="./assets/project-live-2-dark.svg" width="49%" alt="medevo-evaluation: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation. · 0 stars" /></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/MeazbahMehedi/medevo-evaluation"><picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/project-medevo-evaluation-light.svg" />
-    <img src="./assets/project-medevo-evaluation-dark.svg" width="49%" alt="MedEvo Evaluation Study — independent reproduction of a medical reasoning method; strict accuracy rose from 21.5% to 50.0% after LoRA adaptation." />
-  </picture></a>
-  <a href="https://github.com/MeazbahMehedi/CampusFind"><picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/project-campusfind-light.svg" />
-    <img src="./assets/project-campusfind-dark.svg" width="49%" alt="CampusFind — campus lost-and-found management system. Flask, SQLAlchemy, SQLite, ReportLab." />
-  </picture></a>
+<a href="https://github.com/MeazbahMehedi/road-damage-dg"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="road-damage-dg: Robust and Efficient Road Damage Detection Under Domain Shift · 1 stars" /></picture></a>
+<a href="https://github.com/MeazbahMehedi/emessa-business-manager"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="emessa-business-manager: Inventory and warehouse management for EMESSA. Work in progress. · 0 stars" /></picture></a>
 </p>
 <!-- SYNC:PROJECTS:END -->
 
@@ -92,19 +80,12 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 
 <!-- SYNC:TOOLS:START -->
 <table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&amp;theme=light" /><img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&amp;theme=dark" height="40" alt="Python, C, C++, JavaScript, HTML, CSS" /></picture></td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks and data</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask,fastapi,pytorch,sqlite&amp;theme=light" /><img src="https://skillicons.dev/icons?i=flask,fastapi,pytorch,sqlite&amp;theme=dark" height="40" alt="Flask, FastAPI, PyTorch, SQLite" /></picture></td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,githubactions,docker,linux,pycharm&amp;theme=light" /><img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,pycharm&amp;theme=dark" height="40" alt="Git, GitHub Actions, Docker, Linux, PyCharm" /></picture></td>
-  </tr>
+<tr><td><strong>Languages</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,css,js,html,ts,php,java,c,bash&amp;theme=light" /><img src="https://skillicons.dev/icons?i=python,css,js,html,ts,php,java,c,bash&amp;theme=dark" height="40" alt="Python, Tcl, CSS, JavaScript, HTML, TypeScript, PHP, Java, PowerShell, C, Jupyter Notebook, Batchfile, Inno Setup, Dockerfile, Shell, Mako" /></picture></td></tr>
+<tr><td><strong>Frameworks and data</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,flask,pytorch,react,sqlite&amp;theme=light" /><img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,react,sqlite&amp;theme=dark" height="40" alt="FastAPI, Flask, PyTorch, React, SQLite" /></picture></td></tr>
+<tr><td><strong>Tools</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=light" /><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=dark" height="40" alt="Docker, Git, GitHub, GitHub Actions" /></picture></td></tr>
 </table>
+
+<sub>Detected from public repositories and dependency files. Refreshes hourly.</sub>
 <!-- SYNC:TOOLS:END -->
 
 

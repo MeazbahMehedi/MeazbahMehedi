@@ -1,46 +1,64 @@
 {
   "taglines": [
-    "Building security tools for AI systems",
-    "Finding accessibility barriers on the web",
-    "Reproducing ML research on a single CPU",
-    "Python · Flask · FastAPI · Playwright"
+    "Building: CSTBS-PHP",
+    "Building: medevo-evaluation",
+    "Building: road-damage-dg",
+    "Building: emessa-business-manager"
   ],
   "projects": [
     {
-      "slug": "intentshield",
-      "name": "IntentShield",
-      "category": "AI SECURITY",
-      "summary": "Prompt-injection detection and evaluation workspace",
-      "description": "Layered threat detection with explainable evidence, a central ALLOW / WARN / REVIEW / BLOCK policy, an evaluation lab and an optional gateway to a local LLM.",
-      "stack": ["Python", "Flask", "SQLite", "scikit-learn"],
-      "url": "https://github.com/MeazbahMehedi/PromptGuard"
+      "slug": "live-1",
+      "name": "CSTBS-PHP",
+      "category": "WORKING ON",
+      "summary": "Campus stadium ticket booking, signed QR admission and gat",
+      "description": "Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP · 0 stars",
+      "stack": [
+        "PHP",
+        "CSS",
+        "JavaScript",
+        "PowerShell"
+      ],
+      "url": "https://github.com/MeazbahMehedi/CSTBS-PHP"
     },
     {
-      "slug": "accesslens",
-      "name": "AccessLens",
-      "category": "ACCESSIBILITY",
-      "summary": "Local-first website accessibility scanner",
-      "description": "Renders pages in Chromium, runs axe-core WCAG checks, keeps screenshot evidence and scan history, and exports PDF, DOCX, CSV and JSON reports.",
-      "stack": ["FastAPI", "Playwright", "axe-core", "SQLite"],
-      "url": "https://github.com/MeazbahMehedi/AccessCheck"
-    },
-    {
-      "slug": "medevo-evaluation",
-      "name": "MedEvo Evaluation Study",
-      "category": "ML RESEARCH",
-      "summary": "Independent reproduction of a medical reasoning method",
-      "description": "Reimplements the MedEvo self-correction loop on one CPU. LoRA adaptation of Qwen3.5-2B raised strict accuracy from 21.5% to 50.0% on VQA-RAD and SLAKE.",
-      "stack": ["Python", "Transformers", "PEFT / LoRA", "VQA-RAD"],
+      "slug": "live-2",
+      "name": "medevo-evaluation",
+      "category": "WORKING ON",
+      "summary": "Independent CPU-scale evaluation of MedEvo on VQA-RAD and ",
+      "description": "Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation. · 0 stars",
+      "stack": [
+        "Python",
+        "PyTorch"
+      ],
       "url": "https://github.com/MeazbahMehedi/medevo-evaluation"
     },
     {
-      "slug": "campusfind",
-      "name": "CampusFind",
-      "category": "WEB APPLICATION",
-      "summary": "Campus lost-and-found management system",
-      "description": "Student reports, private ownership claims, administrator review and confirmed returns, with a handover queue and a full decision history.",
-      "stack": ["Flask", "SQLAlchemy", "SQLite", "ReportLab"],
-      "url": "https://github.com/MeazbahMehedi/CampusFind"
+      "slug": "live-3",
+      "name": "road-damage-dg",
+      "category": "WORKING ON",
+      "summary": "Robust and Efficient Road Damage Detection Under Domain Sh",
+      "description": "Robust and Efficient Road Damage Detection Under Domain Shift · 1 stars",
+      "stack": [
+        "Python",
+        "Jupyter Notebook",
+        "Shell",
+        "PyTorch"
+      ],
+      "url": "https://github.com/MeazbahMehedi/road-damage-dg"
+    },
+    {
+      "slug": "live-4",
+      "name": "emessa-business-manager",
+      "category": "WORKING ON",
+      "summary": "Inventory and warehouse management for EMESSA. Work in pro",
+      "description": "Inventory and warehouse management for EMESSA. Work in progress. · 0 stars",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "HTML"
+      ],
+      "url": "https://github.com/MeazbahMehedi/emessa-business-manager"
     }
   ]
 }
