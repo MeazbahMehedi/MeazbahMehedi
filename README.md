@@ -44,6 +44,8 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 - **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA a
 - **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift
 - **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress.
+
+<sub>Status updates hourly. Finished = no default-branch commits for 20 days; a new commit returns it to Working on.</sub>
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -72,7 +74,7 @@ I'm a software developer from Bangladesh who builds practical Python tools for s
 <a href="https://github.com/MeazbahMehedi/medevo-evaluation"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-2-light.svg" /><img src="./assets/project-live-2-dark.svg" width="49%" alt="medevo-evaluation: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation. · 0 stars" /></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/MeazbahMehedi/road-damage-dg"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="road-damage-dg: Robust and Efficient Road Damage Detection Under Domain Shift · 1 stars" /></picture></a>
+<a href="https://github.com/MeazbahMehedi/road-damage-dg"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="road-damage-dg: Robust and Efficient Road Damage Detection Under Domain Shift · 1 star" /></picture></a>
 <a href="https://github.com/MeazbahMehedi/emessa-business-manager"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="emessa-business-manager: Inventory and warehouse management for EMESSA. Work in progress. · 0 stars" /></picture></a>
 </p>
 <!-- SYNC:PROJECTS:END -->

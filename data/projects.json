@@ -7,6 +7,8 @@
   ],
   "projects": [
     {
+      "status": "Working on",
+      "last_commit_at": "2026-11-22T16:13:47.000Z",
       "slug": "live-1",
       "name": "CSTBS-PHP",
       "category": "WORKING ON",
@@ -21,6 +23,8 @@
       "url": "https://github.com/MeazbahMehedi/CSTBS-PHP"
     },
     {
+      "status": "Working on",
+      "last_commit_at": "2026-11-20T04:08:17.000Z",
       "slug": "live-2",
       "name": "medevo-evaluation",
       "category": "WORKING ON",
@@ -33,11 +37,13 @@
       "url": "https://github.com/MeazbahMehedi/medevo-evaluation"
     },
     {
+      "status": "Working on",
+      "last_commit_at": "2026-11-15T02:36:11.000Z",
       "slug": "live-3",
       "name": "road-damage-dg",
       "category": "WORKING ON",
       "summary": "Robust and Efficient Road Damage Detection Under Domain Sh",
-      "description": "Robust and Efficient Road Damage Detection Under Domain Shift · 1 stars",
+      "description": "Robust and Efficient Road Damage Detection Under Domain Shift · 1 star",
       "stack": [
         "Python",
         "Jupyter Notebook",
@@ -47,6 +53,8 @@
       "url": "https://github.com/MeazbahMehedi/road-damage-dg"
     },
     {
+      "status": "Working on",
+      "last_commit_at": "2026-11-13T12:12:18.000Z",
       "slug": "live-4",
       "name": "emessa-business-manager",
       "category": "WORKING ON",
