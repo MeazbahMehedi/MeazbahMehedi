@@ -8,65 +8,68 @@
   "projects": [
     {
       "status": "Working on",
-      "last_commit_at": "2026-11-22T16:13:47.000Z",
+      "last_commit_at": "2026-11-20T04:08:17.000Z",
       "slug": "live-1",
-      "name": "CSTBS-PHP",
+      "name": "medevo-evaluation",
       "category": "WORKING ON",
-      "summary": "Campus stadium ticket booking, signed QR admission and gat",
-      "description": "Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP · 0 stars",
+      "summary": "Independent CPU-scale evaluation of MedEvo on VQA-RAD…",
+      "description": "Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation.",
       "stack": [
-        "PHP",
-        "CSS",
-        "JavaScript",
-        "PowerShell"
+        "PyTorch",
+        "Python"
       ],
-      "url": "https://github.com/MeazbahMehedi/CSTBS-PHP"
+      "url": "https://github.com/MeazbahMehedi/medevo-evaluation",
+      "footer": "Last commit: 2 days ago · 0 stars"
     },
     {
       "status": "Working on",
-      "last_commit_at": "2026-11-20T04:08:17.000Z",
+      "last_commit_at": "2026-11-11T04:02:41.000Z",
       "slug": "live-2",
-      "name": "medevo-evaluation",
+      "name": "Hog-Game.py",
       "category": "WORKING ON",
-      "summary": "Independent CPU-scale evaluation of MedEvo on VQA-RAD and ",
-      "description": "Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation. · 0 stars",
+      "summary": "Hog Game is a Python-based dice game where players take…",
+      "description": "Hog Game is a Python-based dice game where players take turns rolling dice to earn points and compete to reach the target score.",
       "stack": [
+        "Tcl",
         "Python",
-        "PyTorch"
+        "C",
+        "Inno Setup"
       ],
-      "url": "https://github.com/MeazbahMehedi/medevo-evaluation"
+      "url": "https://github.com/MeazbahMehedi/Hog-Game.py",
+      "footer": "Last commit: 11 days ago · 0 stars"
+    },
+    {
+      "status": "Finished",
+      "last_commit_at": "2026-10-27T10:05:00.000Z",
+      "slug": "live-3",
+      "name": "ProjectPilot",
+      "category": "FINISHED",
+      "summary": "Java Swing desktop workspace for university…",
+      "description": "Java Swing desktop workspace for university project-topic selection, supervision and waitlists.",
+      "stack": [
+        "Java",
+        "Batchfile",
+        "Shell"
+      ],
+      "url": "https://github.com/MeazbahMehedi/ProjectPilot",
+      "footer": "Last commit: 26 days ago · 0 stars"
     },
     {
       "status": "Working on",
       "last_commit_at": "2026-11-15T02:36:11.000Z",
-      "slug": "live-3",
+      "slug": "live-4",
       "name": "road-damage-dg",
       "category": "WORKING ON",
-      "summary": "Robust and Efficient Road Damage Detection Under Domain Sh",
-      "description": "Robust and Efficient Road Damage Detection Under Domain Shift · 1 star",
+      "summary": "Robust and Efficient Road Damage Detection Under Domain…",
+      "description": "Robust and Efficient Road Damage Detection Under Domain Shift",
       "stack": [
+        "PyTorch",
         "Python",
         "Jupyter Notebook",
-        "Shell",
-        "PyTorch"
+        "Shell"
       ],
-      "url": "https://github.com/MeazbahMehedi/road-damage-dg"
-    },
-    {
-      "status": "Working on",
-      "last_commit_at": "2026-11-13T12:12:18.000Z",
-      "slug": "live-4",
-      "name": "emessa-business-manager",
-      "category": "WORKING ON",
-      "summary": "Inventory and warehouse management for EMESSA. Work in pro",
-      "description": "Inventory and warehouse management for EMESSA. Work in progress. · 0 stars",
-      "stack": [
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "HTML"
-      ],
-      "url": "https://github.com/MeazbahMehedi/emessa-business-manager"
+      "url": "https://github.com/MeazbahMehedi/road-damage-dg",
+      "footer": "Last commit: 7 days ago · 1 star"
     }
   ]
 }

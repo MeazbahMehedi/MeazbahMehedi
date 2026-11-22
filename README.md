@@ -38,10 +38,10 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 **🔭 Currently**
 
 <!-- SYNC:CURRENT:START -->
-- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP
-- **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA a
-- **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift
-- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress.
+- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP <sub>· Last commit: today</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA… <sub>· Last commit: 2 days ago</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift <sub>· Last commit: 7 days ago</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 9 days ago</sub>
 
 <sub>Status updates hourly. Finished = no default-branch commits for 20 days; a new commit returns it to Working on.</sub>
 <!-- SYNC:CURRENT:END -->
@@ -68,31 +68,31 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 
 <!-- SYNC:PROJECTS:START -->
 <p align="center">
-<a href="https://github.com/MeazbahMehedi/CSTBS-PHP"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-1-light.svg" /><img src="./assets/project-live-1-dark.svg" width="49%" alt="CSTBS-PHP: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP · 0 stars" /></picture></a>
-<a href="https://github.com/MeazbahMehedi/medevo-evaluation"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-2-light.svg" /><img src="./assets/project-live-2-dark.svg" width="49%" alt="medevo-evaluation: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation. · 0 stars" /></picture></a>
+<a href="https://github.com/MeazbahMehedi/medevo-evaluation"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-1-light.svg" /><img src="./assets/project-live-1-dark.svg" width="49%" alt="medevo-evaluation: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation." /></picture></a>
+<a href="https://github.com/MeazbahMehedi/Hog-Game.py"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-2-light.svg" /><img src="./assets/project-live-2-dark.svg" width="49%" alt="Hog-Game.py: Hog Game is a Python-based dice game where players take turns rolling dice to earn points and compete to reach the target score." /></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/MeazbahMehedi/road-damage-dg"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="road-damage-dg: Robust and Efficient Road Damage Detection Under Domain Shift · 1 star" /></picture></a>
-<a href="https://github.com/MeazbahMehedi/emessa-business-manager"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="emessa-business-manager: Inventory and warehouse management for EMESSA. Work in progress. · 0 stars" /></picture></a>
+<a href="https://github.com/MeazbahMehedi/ProjectPilot"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="ProjectPilot: Java Swing desktop workspace for university project-topic selection, supervision and waitlists." /></picture></a>
+<a href="https://github.com/MeazbahMehedi/road-damage-dg"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="road-damage-dg: Robust and Efficient Road Damage Detection Under Domain Shift" /></picture></a>
 </p>
 <!-- SYNC:PROJECTS:END -->
 
 ## 🔬 Research highlights
 
 <!-- SYNC:RESEARCH:START -->
-Reports and findings are being indexed from public research repositories.
+- <a href="https://github.com/MeazbahMehedi/medevo-evaluation"><strong>medevo-evaluation</strong></a> — <a href="https://github.com/MeazbahMehedi/medevo-evaluation/blob/main/docs/results.md">docs/results.md</a> · <a href="https://github.com/MeazbahMehedi/medevo-evaluation/blob/main/reports/MedEvo_Technical_Report.pdf">reports/MedEvo_Technical_Report.pdf</a> · <a href="https://github.com/MeazbahMehedi/medevo-evaluation/blob/main/results/adapted/qwen35_2b/summary.json">results/adapted/qwen35_2b/summary.json</a> · <a href="https://github.com/MeazbahMehedi/medevo-evaluation/releases/tag/data-v1">Latest release</a>
 <!-- SYNC:RESEARCH:END -->
 
 ## 🛠 Languages and tools
 
 <!-- SYNC:TOOLS:START -->
 <table>
-<tr><td><strong>Languages</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,css,js,html,ts,php,java,c,bash&amp;theme=light" /><img src="https://skillicons.dev/icons?i=python,css,js,html,ts,php,java,c,bash&amp;theme=dark" height="40" alt="Python, Tcl, CSS, JavaScript, HTML, TypeScript, PHP, Java, PowerShell, C, Jupyter Notebook, Batchfile, Inno Setup, Dockerfile, Shell, Mako" /></picture></td></tr>
-<tr><td><strong>Frameworks and data</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,flask,pytorch,react,sqlite&amp;theme=light" /><img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch,react,sqlite&amp;theme=dark" height="40" alt="FastAPI, Flask, PyTorch, React, SQLite" /></picture></td></tr>
+<tr><td><strong>Languages</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,css,js,html,ts,php,java,c&amp;theme=light" /><img src="https://skillicons.dev/icons?i=python,css,js,html,ts,php,java,c&amp;theme=dark" height="40" alt="Python, CSS, JavaScript, HTML, TypeScript, PHP, Java, C" /></picture></td></tr>
+<tr><td><strong>Frameworks and data</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask,sqlite,pytorch,fastapi,react&amp;theme=light" /><img src="https://skillicons.dev/icons?i=flask,sqlite,pytorch,fastapi,react&amp;theme=dark" height="40" alt="Flask, SQLite, PyTorch, FastAPI, React" /></picture></td></tr>
 <tr><td><strong>Tools</strong></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=light" /><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&amp;theme=dark" height="40" alt="Docker, Git, GitHub, GitHub Actions" /></picture></td></tr>
 </table>
 
-<sub>Detected from public repositories and dependency files. Refreshes hourly.</sub>
+<sub>Up to eight detected technologies per row. Languages ranked by code size; frameworks by repository usage. Refreshes hourly.</sub>
 <!-- SYNC:TOOLS:END -->
 
 
@@ -104,6 +104,8 @@ Reports and findings are being indexed from public research repositories.
 
 <!-- SYNC:HEALTH:START -->
 [![Profile refresh](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml/badge.svg)](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml)
+
+<sub>Last synced: 2026-11-22 16:42 UTC · Automatic hourly updates</sub>
 <!-- SYNC:HEALTH:END -->
 
 ## 📊 Profile stats
