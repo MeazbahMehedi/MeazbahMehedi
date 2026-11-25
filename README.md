@@ -38,10 +38,10 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 **🔭 Currently**
 
 <!-- SYNC:CURRENT:START -->
-- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP <sub>· Last commit: 2 days ago</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP <sub>· Last commit: 3 days ago</sub>
 - **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA… <sub>· Last commit: 5 days ago</sub>
 - **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift <sub>· Last commit: 10 days ago</sub>
-- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 11 days ago</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 12 days ago</sub>
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -100,7 +100,7 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <!-- SYNC:HEALTH:START -->
 [![Profile refresh](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml/badge.svg)](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml)
 
-<sub>Last synced: 2026-11-25 05:29 UTC · Automatic hourly updates</sub>
+<sub>Last synced: 2026-11-25 17:25 UTC · Automatic hourly updates</sub>
 <!-- SYNC:HEALTH:END -->
 
 ## 📊 Profile stats
