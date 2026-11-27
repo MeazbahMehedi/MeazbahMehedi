@@ -12,7 +12,7 @@ The displayed time uses **Asia/Shanghai — China Standard Time (UTC+08:00)**. E
 
 ## Refresh schedule
 
-The profile requests a refresh twice per hour, at minute 17 and 47. GitHub may delay or drop scheduled executions, so these are requested times, not a guaranteed maximum delay. For an immediate refresh use **Actions → Refresh profile animations → Run workflow** in this repository. No cross-repository push triggers are used.
+The profile checks account activity every five minutes. A lightweight comparison covers public repository metadata, default-branch commits, releases, contribution counts, approved private summaries, and elapsed-day status changes. It runs the full generators and publishes only when those inputs change. Manual runs and profile code changes force a full refresh. Unchanged checks do not create commits merely to advance a timestamp. GitHub may delay or drop scheduled executions, so these are requested times, not a guaranteed maximum delay. For an immediate refresh use **Actions → Refresh profile animations → Run workflow** in this repository. No cross-repository push triggers are used.
 
 ## Private summaries
 

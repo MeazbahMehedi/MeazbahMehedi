@@ -3,7 +3,7 @@ name: Refresh profile animations
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17,47 * * * *'
+    - cron: '*/5 * * * *'
   push:
     paths:
       - README.md
@@ -41,9 +41,23 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Test automatic profile sync
-        run: node --test tests/sync_profile.test.cjs
+        run: node --test tests/*.test.cjs
+
+      - name: Check for account changes
+        id: changes
+        uses: actions/github-script@v8
+        env:
+          PROFILE_PRIVATE_READ_TOKEN: ${{ secrets.PROFILE_PRIVATE_READ_TOKEN }}
+        with:
+          script: |
+            const privateGithub = process.env.PROFILE_PRIVATE_READ_TOKEN
+              ? new github.constructor({auth: process.env.PROFILE_PRIVATE_READ_TOKEN})
+              : undefined;
+            const changed = await require('./scripts/check_profile_changes.cjs').check({github, privateGithub, context, core});
+            core.setOutput('changed', String(changed));
 
       - name: Sync public projects and technology sections
+        if: steps.changes.outputs.changed == 'true'
         uses: actions/github-script@v8
         env:
           PROFILE_PRIVATE_READ_TOKEN: ${{ secrets.PROFILE_PRIVATE_READ_TOKEN }}
@@ -55,27 +69,32 @@ jobs:
             await require('./scripts/sync_profile.cjs').run({github, context, core, privateGithub});
 
       - name: Refresh daily public commit chart
+        if: steps.changes.outputs.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/update_commits.py
 
       - name: Refresh local contribution activity graph
+        if: steps.changes.outputs.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/update_activity.py
 
       - name: Build tagline, project cards and dividers
+        if: steps.changes.outputs.changed == 'true'
         run: python scripts/build_profile_art.py
 
       - name: Refresh profile stats card
+        if: steps.changes.outputs.changed == 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/update_stats.py
 
       - name: Generate contribution snake
+        if: steps.changes.outputs.changed == 'true'
         id: snake
         continue-on-error: true
         uses: Platane/snk/svg-only@v3
@@ -87,10 +106,11 @@ jobs:
             assets/snake-dark.svg?palette=github-dark&color_snake=%2367e8d3
 
       - name: Report snake refresh failure
-        if: steps.snake.outcome == 'failure'
+        if: steps.changes.outputs.changed == 'true' && steps.snake.outcome == 'failure'
         run: echo '::warning::Snake refresh failed; the previous snake image is kept. Run this workflow again to retry.'
 
       - name: Publish refreshed images and daily data
+        if: steps.changes.outputs.changed == 'true'
         env:
           PROFILE_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
