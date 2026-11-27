@@ -1,9 +1,9 @@
 {
   "taglines": [
+    "Building: CampusFind",
     "Building: scholarsend",
     "Building: KeyFlow",
-    "Building: emessa-business-manager",
-    "Building: CSTBS-PHP"
+    "Building: emessa-business-manager"
   ],
   "projects": [
     {
@@ -39,9 +39,26 @@
       "footer": "Last commit: 16 days ago · 0 stars"
     },
     {
+      "status": "Working on",
+      "last_commit_at": "2026-11-27T16:35:12.000Z",
+      "slug": "live-3",
+      "name": "CampusFind",
+      "category": "WORKING ON",
+      "summary": "Explore the code, documentation and latest updates.",
+      "description": "Explore the code, documentation and latest updates.",
+      "stack": [
+        "Flask",
+        "SQLite",
+        "Python",
+        "HTML"
+      ],
+      "url": "https://github.com/MeazbahMehedi/CampusFind",
+      "footer": "Last commit: today · 0 stars"
+    },
+    {
       "status": "Under future development",
       "last_commit_at": "2026-10-27T10:05:00.000Z",
-      "slug": "live-3",
+      "slug": "live-4",
       "name": "ProjectPilot",
       "category": "UNDER FUTURE DEVELOPMENT",
       "summary": "Java Swing desktop workspace for university…",
@@ -53,23 +70,6 @@
       ],
       "url": "https://github.com/MeazbahMehedi/ProjectPilot",
       "footer": "Last commit: 31 days ago · 0 stars"
-    },
-    {
-      "status": "Working on",
-      "last_commit_at": "2026-11-27T16:29:33.000Z",
-      "slug": "live-4",
-      "name": "CSTBS-PHP",
-      "category": "WORKING ON",
-      "summary": "Campus stadium ticket booking, signed QR admission and…",
-      "description": "Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP",
-      "stack": [
-        "PHP",
-        "CSS",
-        "JavaScript",
-        "PowerShell"
-      ],
-      "url": "https://github.com/MeazbahMehedi/CSTBS-PHP",
-      "footer": "Last commit: today · 1 star"
     }
   ]
 }

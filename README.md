@@ -38,10 +38,10 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 **🔭 Currently**
 
 <!-- SYNC:CURRENT:START -->
+- **Working on** — <a href="https://github.com/MeazbahMehedi/CampusFind">CampusFind</a>: Explore the latest code and documentation. <sub>· Last commit: today</sub>
 - **Working on** — scholarsend: Give students their time back: personal professor outreach with Gmail, QQ Mail, attachments and thoughtful scheduling. <sub>· Last commit: today</sub>
 - **Working on** — KeyFlow: Keyboard-based text entry for Microsoft Word <sub>· Last commit: today</sub>
 - **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: today</sub>
-- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP <sub>· Last commit: today</sub>
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -70,8 +70,8 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <a href="https://github.com/MeazbahMehedi/Hog-Game.py"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-2-light.svg" /><img src="./assets/project-live-2-dark.svg" width="49%" alt="Hog-Game.py: Hog Game is a Python-based dice game where players take turns rolling dice to earn points and compete to reach the target score." /></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/MeazbahMehedi/ProjectPilot"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="ProjectPilot: Java Swing desktop workspace for university project-topic selection, supervision and waitlists." /></picture></a>
-<a href="https://github.com/MeazbahMehedi/CSTBS-PHP"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="CSTBS-PHP: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP" /></picture></a>
+<a href="https://github.com/MeazbahMehedi/CampusFind"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="CampusFind: Explore the code, documentation and latest updates." /></picture></a>
+<a href="https://github.com/MeazbahMehedi/ProjectPilot"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="ProjectPilot: Java Swing desktop workspace for university project-topic selection, supervision and waitlists." /></picture></a>
 </p>
 <!-- SYNC:PROJECTS:END -->
 
@@ -100,7 +100,7 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <!-- SYNC:HEALTH:START -->
 [![Profile refresh](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml/badge.svg)](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml)
 
-<sub>Last synced: 2026-11-28 00:32 China Standard Time (UTC+08:00)</sub>
+<sub>Last synced: 2026-11-28 00:39 China Standard Time (UTC+08:00)</sub>
 <!-- SYNC:HEALTH:END -->
 
 ## 📊 Profile stats

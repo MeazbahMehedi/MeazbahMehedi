@@ -1,0 +1,424 @@
+{
+  "schema": 1,
+  "utcDate": "2026-11-27",
+  "timezone": "Asia/Shanghai",
+  "privateReadConfigured": false,
+  "publicProjects": [
+    {
+      "name": "AccessLens",
+      "description": "AccessCheck is a web accessibility analysis system that scans websites for common WCAG accessibility issues and helps developers understand how to fix them.",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-10-26T15:30:02Z",
+      "updated": "2026-10-30T13:23:22Z",
+      "last_commit_at": "2026-10-26T15:29:58Z",
+      "status": "Under future development",
+      "age": "32 days ago",
+      "releases": []
+    },
+    {
+      "name": "CampusFind",
+      "description": "",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-11-27T16:35:13Z",
+      "updated": "2026-10-30T13:53:26Z",
+      "last_commit_at": "2026-11-27T16:35:12Z",
+      "status": "Working on",
+      "age": "today",
+      "releases": [
+        {
+          "tag": "v1.2.0",
+          "updated": "2026-10-29T13:49:41Z",
+          "prerelease": false
+        },
+        {
+          "tag": "Version-1.0.1",
+          "updated": "2026-10-29T13:10:09Z",
+          "prerelease": false
+        }
+      ]
+    },
+    {
+      "name": "CSTBS-PHP",
+      "description": "Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 1,
+      "issues": 0,
+      "pushed": "2026-11-27T16:29:39Z",
+      "updated": "2026-11-27T06:21:40Z",
+      "last_commit_at": "2026-11-27T16:29:33Z",
+      "status": "Working on",
+      "age": "today",
+      "releases": []
+    },
+    {
+      "name": "emessa-business-manager",
+      "description": "Inventory and warehouse management for EMESSA. Work in progress.",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-11-27T16:29:42Z",
+      "updated": "2026-11-13T13:50:12Z",
+      "last_commit_at": "2026-11-27T16:29:38Z",
+      "status": "Working on",
+      "age": "today",
+      "releases": []
+    },
+    {
+      "name": "Hog-Game.py",
+      "description": "Hog Game is a Python-based dice game where players take turns rolling dice to earn points and compete to reach the target score. Players must balance risk and reward by deciding when to roll or stop, making the game a fun way to practice strategy, probability, and Python programming.",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-11-11T04:02:45Z",
+      "updated": "2026-11-22T16:36:58Z",
+      "last_commit_at": "2026-11-11T04:02:41Z",
+      "status": "Under future development",
+      "age": "16 days ago",
+      "releases": [
+        {
+          "tag": "Version-4.0.0",
+          "updated": "2026-11-11T04:03:55Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v3.0.0",
+          "updated": "2026-11-10T15:47:37Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v2.2.0",
+          "updated": "2026-11-10T15:44:49Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v2.1.0",
+          "updated": "2026-11-04T04:13:23Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v2.0.0",
+          "updated": "2026-11-02T10:53:04Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v1.2.0",
+          "updated": "2026-10-30T15:40:52Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v1.1.0",
+          "updated": "2026-10-28T15:31:46Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v1.0.0",
+          "updated": "2026-10-28T15:03:17Z",
+          "prerelease": false
+        }
+      ]
+    },
+    {
+      "name": "Intentshield",
+      "description": "IntentShield makes prompt-security decisions visible and repeatable. ",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-10-26T16:16:58Z",
+      "updated": "2026-10-30T13:22:36Z",
+      "last_commit_at": "2026-10-26T16:16:49Z",
+      "status": "Under future development",
+      "age": "32 days ago",
+      "releases": []
+    },
+    {
+      "name": "medevo-evaluation",
+      "description": "Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA adaptation.",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [
+        "lora",
+        "medical-vqa",
+        "qwen",
+        "reproducibility",
+        "slake",
+        "vision-language-models",
+        "vqa-rad"
+      ],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-11-27T16:29:44Z",
+      "updated": "2026-11-17T14:14:39Z",
+      "last_commit_at": "2026-11-27T16:29:25Z",
+      "status": "Working on",
+      "age": "today",
+      "releases": [
+        {
+          "tag": "data-v1",
+          "updated": "2026-11-09T12:42:24Z",
+          "prerelease": false
+        },
+        {
+          "tag": "adapter-v1",
+          "updated": "2026-11-09T15:48:57Z",
+          "prerelease": false
+        }
+      ]
+    },
+    {
+      "name": "ProjectPilot",
+      "description": "Java Swing desktop workspace for university project-topic selection, supervision and waitlists.",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-11-10T03:01:20Z",
+      "updated": "2026-11-10T03:00:33Z",
+      "last_commit_at": "2026-10-27T10:05:00Z",
+      "status": "Under future development",
+      "age": "31 days ago",
+      "releases": [
+        {
+          "tag": "v2.0.0",
+          "updated": "2026-11-10T03:01:20Z",
+          "prerelease": false
+        },
+        {
+          "tag": "v1.0.0",
+          "updated": "2026-11-10T03:00:54Z",
+          "prerelease": false
+        }
+      ]
+    },
+    {
+      "name": "ProjectPilot-Python",
+      "description": " This project was originally written in Java as ProjectSelectionManager, using Swing and MySQL. It was then converted to Python and redesigned with Tkinter, SQLite, safer selection rules, and new features. This is a Python rewrite of the original workflows, not a Java wrapper.",
+      "archived": false,
+      "disabled": false,
+      "branch": "master",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-10-28T07:51:57Z",
+      "updated": "2026-10-28T07:52:01Z",
+      "last_commit_at": "2026-10-28T07:51:56Z",
+      "status": "Under future development",
+      "age": "30 days ago",
+      "releases": []
+    },
+    {
+      "name": "road-damage-dg",
+      "description": "Robust and Efficient Road Damage Detection Under Domain Shift",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 1,
+      "issues": 0,
+      "pushed": "2026-11-27T16:29:49Z",
+      "updated": "2026-11-14T15:39:15Z",
+      "last_commit_at": "2026-11-27T16:29:28Z",
+      "status": "Working on",
+      "age": "today",
+      "releases": []
+    },
+    {
+      "name": "SentinelFlow",
+      "description": "SentinelFlow provides a local Python workspace for replaying packet captures, monitoring visible network traffic, detecting suspicious behavior, and investigating alerts. Its six configurable detectors produce evidence that a user can inspect; their alerts are indicators requiring context rather than proof of compromise.",
+      "archived": false,
+      "disabled": false,
+      "branch": "master",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-11-11T14:15:31Z",
+      "updated": "2026-11-23T23:51:32Z",
+      "last_commit_at": "2026-11-11T14:15:28Z",
+      "status": "Under future development",
+      "age": "16 days ago",
+      "releases": []
+    },
+    {
+      "name": "Ultimate-Aim-Trainer",
+      "description": "A fast-paced, polished aim trainer built with Pygame. Click shrinking targets, build combos, manage lives, and chase high scores across three difficulty levels.",
+      "archived": false,
+      "disabled": false,
+      "branch": "main",
+      "topics": [],
+      "stars": 0,
+      "issues": 0,
+      "pushed": "2026-10-25T03:53:02Z",
+      "updated": "2026-10-25T03:53:05Z",
+      "last_commit_at": "2026-10-25T03:53:01Z",
+      "status": "Under future development",
+      "age": "33 days ago",
+      "releases": []
+    }
+  ],
+  "privateProjects": [
+    {
+      "name": "KeyFlow",
+      "description": "Keyboard-based text entry for Microsoft Word",
+      "last_commit_at": "2026-11-27T16:30:07.000Z",
+      "status": "Working on",
+      "age": "today"
+    },
+    {
+      "name": "scholarsend",
+      "description": "Give students their time back: personal professor outreach with Gmail, QQ Mail, attachments and thoughtful scheduling.",
+      "last_commit_at": "2026-11-27T16:30:10.000Z",
+      "status": "Working on",
+      "age": "today"
+    }
+  ],
+  "contributions": [
+    {
+      "date": "2026-10-28",
+      "count": 24
+    },
+    {
+      "date": "2026-10-29",
+      "count": 11
+    },
+    {
+      "date": "2026-10-30",
+      "count": 5
+    },
+    {
+      "date": "2026-10-31",
+      "count": 3
+    },
+    {
+      "date": "2026-11-01",
+      "count": 1
+    },
+    {
+      "date": "2026-11-02",
+      "count": 8
+    },
+    {
+      "date": "2026-11-03",
+      "count": 2
+    },
+    {
+      "date": "2026-11-04",
+      "count": 8
+    },
+    {
+      "date": "2026-11-05",
+      "count": 1
+    },
+    {
+      "date": "2026-11-06",
+      "count": 1
+    },
+    {
+      "date": "2026-11-07",
+      "count": 1
+    },
+    {
+      "date": "2026-11-08",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "count": 6
+    },
+    {
+      "date": "2026-11-10",
+      "count": 50
+    },
+    {
+      "date": "2026-11-11",
+      "count": 27
+    },
+    {
+      "date": "2026-11-12",
+      "count": 1
+    },
+    {
+      "date": "2026-11-13",
+      "count": 13
+    },
+    {
+      "date": "2026-11-14",
+      "count": 7
+    },
+    {
+      "date": "2026-11-15",
+      "count": 3
+    },
+    {
+      "date": "2026-11-16",
+      "count": 2
+    },
+    {
+      "date": "2026-11-17",
+      "count": 16
+    },
+    {
+      "date": "2026-11-18",
+      "count": 2
+    },
+    {
+      "date": "2026-11-19",
+      "count": 10
+    },
+    {
+      "date": "2026-11-20",
+      "count": 19
+    },
+    {
+      "date": "2026-11-21",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "count": 6
+    },
+    {
+      "date": "2026-11-24",
+      "count": 2
+    },
+    {
+      "date": "2026-11-25",
+      "count": 33
+    },
+    {
+      "date": "2026-11-26",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "count": 16
+    }
+  ]
+}
