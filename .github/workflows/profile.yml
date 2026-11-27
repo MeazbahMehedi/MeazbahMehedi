@@ -3,13 +3,15 @@ name: Refresh profile animations
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 * * * *'
+    - cron: '17,47 * * * *'
   push:
     paths:
       - README.md
       - scripts/**
       - tests/**
       - data/projects.json
+      - data/profile-config.json
+      - data/private-projects.json
       - .github/workflows/profile.yml
 
 permissions:
@@ -43,9 +45,14 @@ jobs:
 
       - name: Sync public projects and technology sections
         uses: actions/github-script@v8
+        env:
+          PROFILE_PRIVATE_READ_TOKEN: ${{ secrets.PROFILE_PRIVATE_READ_TOKEN }}
         with:
           script: |
-            await require('./scripts/sync_profile.cjs').run({github, context, core});
+            const privateGithub = process.env.PROFILE_PRIVATE_READ_TOKEN
+              ? new github.constructor({auth: process.env.PROFILE_PRIVATE_READ_TOKEN})
+              : undefined;
+            await require('./scripts/sync_profile.cjs').run({github, context, core, privateGithub});
 
       - name: Refresh daily public commit chart
         env:
@@ -97,3 +104,4 @@ jobs:
           git commit -m 'Sync profile projects, tools and activity'
           git pull --rebase origin "$PROFILE_BRANCH"
           git push origin "HEAD:$PROFILE_BRANCH"
+

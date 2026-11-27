@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "name": "scholarsend",
+      "description": "Give students their time back: personal professor outreach with Gmail, QQ Mail, attachments and thoughtful scheduling.",
+      "last_commit_at": "2026-11-27T16:30:10Z"
+    },
+    {
+      "name": "KeyFlow",
+      "description": "Keyboard-based text entry for Microsoft Word",
+      "last_commit_at": "2026-11-27T16:30:07Z"
+    }
+  ]
+}

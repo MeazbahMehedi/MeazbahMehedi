@@ -1,28 +1,36 @@
-# Automatic profile updates
+# Automatic account sync
 
-The profile refreshes hourly at minute 23 using public GitHub data. Run **Refresh profile animations** manually from the Actions tab for an earlier refresh.
+All automation lives in `MeazbahMehedi/MeazbahMehedi`. The profile reads account activity and updates only this repository. No source-project workflows, webhooks or edits are needed.
 
-## Four current projects
-The four nonempty, original public repositories with the most recent default-branch commit dates are selected. New projects enter automatically when their commit dates place them in the newest four. Forks, archived repositories, and the profile repository are excluded. Add the repository topic `profile-hidden` to exclude a project.
+## Current work and status
 
-Status is **Working on** while the most recent default-branch commit is less than 20 days old. At exactly 20 full days (480 hours) without a commit, status becomes **Finished**. A new default-branch commit automatically restores **Working on**. This is an inactivity rule, not verified completion; no topics, releases or manual updates are required. Repository description edits and tag-only pushes do not reset the timer.
+The four latest default-branch commit dates determine the current-work entries. New public repositories are discovered automatically on each refresh. A reported repository size of zero no longer excludes a project; the sync checks for actual commits. Truly empty repositories are skipped. Forks, archived repositories, disabled repositories, and the profile itself are excluded.
 
-Descriptions come from each repository's GitHub description. Keep those descriptions up to date to improve the cards. Actual default-branch commit dates select projects; descriptions summarize the project rather than guessing what individual commits achieved.
+A commit less than seven full days old is **Working on**. At seven days (168 hours) the project becomes **Under future development**. A new default-branch commit restores **Working on**. This is an inactivity rule, not a claim of verified completion. Description edits and tag pushes do not reset the timer.
 
-## Languages and tools
-Language icons are ranked by GitHub code bytes across owned public repositories. Supported framework badges come from root dependency manifests. Docker and GitHub Actions are detected from configuration. Unsupported languages and tools do not get invented icons. Local-only work and unrecorded editor usage cannot be detected.
+The displayed time uses **Asia/Shanghai — China Standard Time (UTC+08:00)**. Elapsed-day calculations use absolute timestamps, keeping the seven-day boundary consistent.
+
+## Refresh schedule
+
+The profile requests a refresh twice per hour, at minute 17 and 47. GitHub may delay or drop scheduled executions, so these are requested times, not a guaranteed maximum delay. For an immediate refresh use **Actions → Refresh profile animations → Run workflow** in this repository. No cross-repository push triggers are used.
+
+## Private summaries
+
+Only **scholarsend** and **KeyFlow** are approved for public summary display in `data/profile-config.json`. Their most recently observed summaries are saved in `data/private-projects.json`. The only published private fields are project name, bounded description, and latest default-branch commit date. Private code, files, commit messages, URLs, language statistics, reports, and release links are never published.
+
+To keep private activity updating automatically, add an Actions repository secret **PROFILE_PRIVATE_READ_TOKEN** in this profile repository. Use a fine-grained GitHub token with **Contents: read-only** and metadata access to only the two approved private repositories. The workflow reads repository descriptions and commit dates, not private file contents. The ChatGPT connector's account access is separate from GitHub Actions credentials and is not inherited by workflow jobs.
+
+Create the secret here:
+https://github.com/MeazbahMehedi/MeazbahMehedi/settings/secrets/actions
+
+Do not paste the token into chat or commit it into a file. No secrets or edits are required in any source repository. Without the secret, public discovery remains automatic, while private summaries retain their last observed activity. A warning in the workflow logs makes the missing credential visible.
+
+Additional private projects require adding their names to the allowlist in this profile repository and granting the read token access. Unknown private projects are never made public automatically. Removing a name from the allowlist removes its summary at the next refresh.
+
+## Featured projects and supporting sections
+
+Four featured cards are selected independently using recent commits, documentation, releases, and stars. Private cards contain only the approved summary, without a repository link or inferred technologies. Research links and technology detection use public repositories only. Text is shortened at word or sentence boundaries, and technology rows show up to eight supported icons.
 
 ## Reliability
-All API reads and section checks finish before generated text is saved. A failed sync stops publishing, preserves the last published sections, and makes the workflow status badge show the failure. Existing artwork generation renders cards from the synced data. Generated README changes are committed with assets.
 
-The mindset image has dark, light and static variants. The original quotation remains readable below it.
-
-## Featured projects
-Current work remains the newest four repositories. Featured cards are selected independently using a deterministic score: activity up to 30 points (60-day exponential decay), a root README 20, a description 10, a stable release 20, and stars up to 20 (logarithmic). Ties use commit date then repository name. Forks, archived repositories, hidden repositories, and the profile are excluded. This is a portfolio heuristic, not a code-quality assessment.
-
-## Readability and research
-Text is shortened at sentence or word boundaries with an ellipsis. Each card includes its latest commit age and stars. Technology rows show up to eight supported icons; framework order uses the number of repositories declaring each dependency.
-
-Research candidates are identified from repository names, descriptions and topics. Up to four recent candidates are checked for reports or papers in PDF format, result summaries and data, and stable releases. Only files actually returned by GitHub are linked; large truncated trees are skipped. Paths link to GitHub's file viewer.
-
-The profile shows the latest successful sync time in UTC and a workflow status badge. The 20-day Finished rule remains based only on the default-branch commit date.
+Expected empty-repository responses do not stop discovery. Unexpected public API failures stop publication and keep the last published profile intact. Private-read errors preserve the affected approved summary and log a warning. The workflow badge shows failures; the China-time timestamp records the last successful sync. Tests cover the seven-day boundary, reactivation, zero-size repositories, private metadata filtering, private-read failures, and China-time date rollover.

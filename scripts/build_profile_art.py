@@ -137,7 +137,7 @@ def render_card(project, theme, index=0):
               '<g>',
               f'<circle cx="38" cy="40" r="5" fill="{colors["accent"]}"/>',
               text(52, 45, project['category'], 12, colors['accent'], 700, extra='letter-spacing="1.5"'),
-              text(CARD_WIDTH - 32, 45, 'Repository ↗', 12, colors['muted'], 500, 'end'),
+              text(CARD_WIDTH - 32, 45, 'Private project' if 'url' in project and not project['url'] else 'Repository ↗', 12, colors['muted'], 500, 'end'),
               text(32, 86, project['name'], 26, colors['fg'], 700),
               text(32, 112, project['summary'], 15, colors['accent2'], 500)]
     for number, line in enumerate(lines):
@@ -221,3 +221,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

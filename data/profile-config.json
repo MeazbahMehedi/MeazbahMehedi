@@ -1,0 +1,5 @@
+{
+  "timezone": "Asia/Shanghai",
+  "inactive_after_days": 7,
+  "private_projects": ["scholarsend", "KeyFlow"]
+}
