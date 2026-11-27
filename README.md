@@ -39,9 +39,9 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 
 <!-- SYNC:CURRENT:START -->
 - **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP <sub>· Last commit: 4 days ago</sub>
-- **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA… <sub>· Last commit: 6 days ago</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA… <sub>· Last commit: 7 days ago</sub>
 - **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift <sub>· Last commit: 12 days ago</sub>
-- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 13 days ago</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 14 days ago</sub>
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -71,7 +71,7 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 </p>
 <p align="center">
 <a href="https://github.com/MeazbahMehedi/ProjectPilot"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-3-light.svg" /><img src="./assets/project-live-3-dark.svg" width="49%" alt="ProjectPilot: Java Swing desktop workspace for university project-topic selection, supervision and waitlists." /></picture></a>
-<a href="https://github.com/MeazbahMehedi/road-damage-dg"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="road-damage-dg: Robust and Efficient Road Damage Detection Under Domain Shift" /></picture></a>
+<a href="https://github.com/MeazbahMehedi/CSTBS-PHP"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-live-4-light.svg" /><img src="./assets/project-live-4-dark.svg" width="49%" alt="CSTBS-PHP: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP" /></picture></a>
 </p>
 <!-- SYNC:PROJECTS:END -->
 
@@ -100,7 +100,7 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <!-- SYNC:HEALTH:START -->
 [![Profile refresh](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml/badge.svg)](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml)
 
-<sub>Last synced: 2026-11-27 02:56 UTC · Automatic hourly updates</sub>
+<sub>Last synced: 2026-11-27 12:44 UTC · Automatic hourly updates</sub>
 <!-- SYNC:HEALTH:END -->
 
 ## 📊 Profile stats
