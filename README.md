@@ -38,10 +38,10 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 **🔭 Currently**
 
 <!-- SYNC:CURRENT:START -->
-- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP <sub>· Last commit: 4 days ago</sub>
-- **Working on** — <a href="https://github.com/MeazbahMehedi/medevo-evaluation">medevo-evaluation</a>: Independent CPU-scale evaluation of MedEvo on VQA-RAD and SLAKE: frozen protocol, test baselines, reference-free repair and LoRA… <sub>· Last commit: 7 days ago</sub>
-- **Working on** — <a href="https://github.com/MeazbahMehedi/road-damage-dg">road-damage-dg</a>: Robust and Efficient Road Damage Detection Under Domain Shift <sub>· Last commit: 12 days ago</sub>
-- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: 14 days ago</sub>
+- **Working on** — scholarsend: Give students their time back: personal professor outreach with Gmail, QQ Mail, attachments and thoughtful scheduling. <sub>· Last commit: today</sub>
+- **Working on** — KeyFlow: Keyboard-based text entry for Microsoft Word <sub>· Last commit: today</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/emessa-business-manager">emessa-business-manager</a>: Inventory and warehouse management for EMESSA. Work in progress. <sub>· Last commit: today</sub>
+- **Working on** — <a href="https://github.com/MeazbahMehedi/CSTBS-PHP">CSTBS-PHP</a>: Campus stadium ticket booking, signed QR admission and gate operations built with PHP and MariaDB for XAMPP <sub>· Last commit: today</sub>
 <!-- SYNC:CURRENT:END -->
 
 <br clear="both" />
@@ -100,7 +100,7 @@ I'm a Software Engineering student at Zhengzhou University, from Bangladesh. I b
 <!-- SYNC:HEALTH:START -->
 [![Profile refresh](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml/badge.svg)](https://github.com/MeazbahMehedi/MeazbahMehedi/actions/workflows/profile.yml)
 
-<sub>Last synced: 2026-11-27 12:44 UTC · Automatic hourly updates</sub>
+<sub>Last synced: 2026-11-28 00:32 China Standard Time (UTC+08:00)</sub>
 <!-- SYNC:HEALTH:END -->
 
 ## 📊 Profile stats
